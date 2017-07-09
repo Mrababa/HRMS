@@ -3,6 +3,6 @@
 			NAME varchar(255),
 			Last_updated_by int,
 			Last_updated_date date,
-			Obsoleted boolean
+			Obsoleted bit
 
 );
